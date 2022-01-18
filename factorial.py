@@ -1,3 +1,4 @@
+# Factorial code
 i=int(input("enter number:"))
 fac=1
 while(i>0):
